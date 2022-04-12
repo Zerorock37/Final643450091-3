@@ -1,0 +1,8 @@
+C:\Users\Ashi\source\repos\Final\Final\obj\Debug\net6.0-windows\Final.csproj.AssemblyReference.cache
+C:\Users\Ashi\source\repos\Final\Final\obj\Debug\net6.0-windows\Final.Form1.resources
+C:\Users\Ashi\source\repos\Final\Final\obj\Debug\net6.0-windows\Final.Properties.Resources.resources
+C:\Users\Ashi\source\repos\Final\Final\obj\Debug\net6.0-windows\Final.csproj.GenerateResource.cache
+C:\Users\Ashi\source\repos\Final\Final\obj\Debug\net6.0-windows\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashi\source\repos\Final\Final\obj\Debug\net6.0-windows\Final.AssemblyInfoInputs.cache
+C:\Users\Ashi\source\repos\Final\Final\obj\Debug\net6.0-windows\Final.AssemblyInfo.cs
+C:\Users\Ashi\source\repos\Final\Final\obj\Debug\net6.0-windows\Final.csproj.CoreCompileInputs.cache
